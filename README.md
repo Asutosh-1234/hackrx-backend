@@ -249,7 +249,6 @@ For technical issues or questions:
 3. Ensure Pinecone index is properly configured
 4. Test API endpoints using the provided test script
 
-## 🎉 Good Luck!
 
 This production-grade RAG system provides a solid foundation for winning the HackRx 6.0 competition. The architecture balances accuracy, performance, and reliability while remaining adaptable to new challenges.
 
